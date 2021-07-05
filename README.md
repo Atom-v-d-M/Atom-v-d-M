@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, my name is Atom, I'm a full-stack developer.
 
 <!--
 **Atom-v-d-M/Atom-v-d-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
