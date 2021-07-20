@@ -4,7 +4,7 @@
 * looking forward to trying out materialUI, typescript, FramerMotion       
 &nbsp;  
 #### Technologies and tools that I use:
-`JavaScript`&#8195;&#8195;`React`&#8195;&#8195;`Sass`&#8195;&#8195;`HTML5`&#8195;&#8195;`CSS3`&#8195;&#8195;`Node`&#8195;&#8195;`Express`&#8195;&#8195;`MySQL`&#8195;&#8195;`VSCode`&#8195;&#8195;`Postman`&#8195;&#8195;`MySQLWorkbench`&#8195;&#8195;`Strapi`&#8195;&#8195;`Heroku`&#8195;&#8195;`Tailwind UI`
+`JavaScript`&#8195;&#8195; `React`&#8195; `Sass`&#8195;&#8195;`HTML5`&#8195;&#8195;`CSS3`&#8195;&#8195;`Node`&#8195;&#8195;`Express`&#8195;&#8195;`MySQL`&#8195;&#8195;`VSCode`&#8195;&#8195;`Postman`&#8195;&#8195;`MySQLWorkbench`&#8195;&#8195;`Strapi`&#8195;&#8195;`Heroku`&#8195;&#8195;`Tailwind UI`
 &nbsp;  
 &nbsp;  
 #### You can connect with me on [LinkedIn](https://www.linkedin.com/in/atom-van-der-merwe/).
