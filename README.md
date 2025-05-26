@@ -1,4 +1,4 @@
-### Hi there, my name is Atom. I'm a full-stack developer based in Cumberland, BC.
+### Hi there, my name is Atom. I'm a full-stack developer based in Victoria, BC.
 * currently working on additional functionality to Jasper, a content calendar prototype that I built using React and Strapi
 * learning more sophisticated css design patterns and animations as well as working towards a more advanced understanding of React
 * looking forward to trying out materialUI, typescript, FramerMotion       
